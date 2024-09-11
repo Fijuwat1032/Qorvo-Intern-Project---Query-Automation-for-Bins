@@ -6,6 +6,9 @@ This project, **Query Automation for Bins**, was developed during an internship 
 
 The project leverages Python for automation and SQL for querying data from databases. By automating the querying of bin data, the project helps streamline the analysis of manufacturing processes, enabling quicker and more accurate decision-making.
 
+## Disclaimer
+**Due to confidentiality reasons, all data displayed in the repository is fake, and all passwords and usernames have been removed.**
+
 ## Table of Contents
 
 - [Project Description](#project-description)
